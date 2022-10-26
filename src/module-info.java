@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Systempro
- *
- */
-module chessSystem {
-}
